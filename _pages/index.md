@@ -6,9 +6,12 @@ permalink: /
 ---
 
 # Welcome! 🌱
+안녕하세요! 옵시디언으로 제작된 디지털 정원(Digital Garden) 입니다.</br>
+고도화된 메모장을 사용하여 각 노트를 연결하고 확장시킬 수 있습니다.</br>
+옵시디언을 통한 개발 업무 활용법은 지속적으로 업데이트중에 있습니다.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  기본적인 사용 방법은 여기에서 <span style="font-weight: bold">[[_notes/images/옵시디언 사용법/옵시디언 사용법|옵시디언 사용법]]</span>을 확인하고 시작해보세요.
 </p>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
