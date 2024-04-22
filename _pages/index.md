@@ -17,9 +17,8 @@ permalink: /
   기본적인 사용 방법은 여기에서 <span style="font-weight: bold">[[옵시디언 사용법]]</span>을 확인하고 시작해보세요.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+여기 디지털 가든은 깃허브를 통해 관리되고 있습니다. ==[GitHub here](https://github.com/xodnjs6038/myDigitalGarden)==.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
 <strong>Recently updated notes</strong>
 
