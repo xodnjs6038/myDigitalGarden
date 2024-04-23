@@ -19,6 +19,10 @@ permalink: /
 
 여기 디지털 가든은 깃허브를 통해 관리되고 있습니다. [GitHub here](https://github.com/xodnjs6038/myDigitalGarden).
 
+**Obsidian Tips**
+<ul>
+	<li>[[옵시디언 무료로 퍼블리시하는 방법]]</li>
+</ul>
 
 <strong>Recently updated notes</strong>
 
@@ -26,7 +30,7 @@ permalink: /
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 5 %}
     <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d %h:%m" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+      {{ note.last_modified_at | date: "%Y-%m-%d %hh:%mm" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
