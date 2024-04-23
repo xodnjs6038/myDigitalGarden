@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const modal = document.querySelector(".modal");
   const modal_img = document.querySelector(".modal_content");
   const span = document.querySelector(".close");
-  const img = document.querySelectorAll(".img");
+  const imgs = document.querySelectorAll(".img");
 
   imgs.forEach((img) => {
     img.addEventListener("click", () => {
