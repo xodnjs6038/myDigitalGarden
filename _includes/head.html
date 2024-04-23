@@ -13,8 +13,6 @@
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 
-  <script src="{{ site.baseurl }}/_scripts/layout.js"></script>
-
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
   {% else %}
@@ -47,4 +45,7 @@
       {{ page.title }} &mdash; {{ site.title }}
     {% endif %}
   </title>
+
+  <script src="{{ site.baseurl }}/_scripts/layout.js"></script>
+
 </head>
