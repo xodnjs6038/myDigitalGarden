@@ -33,7 +33,7 @@ permalink: /
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 5 %}
     <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d %hh:%mm" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+      {{ note.last_modified_at | date: "%Y-%m-%d %H:%M" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
@@ -41,8 +41,8 @@ permalink: /
 
 Obsidian Community
 <ul>
-	<li>네이버 카페 ([옵시디언 사용자 모임](https://cafe.naver.com/obsidianary))</li>
-	<li>오픈카톡방 ([옵시디언 사용자 모임](https://open.kakao.com/o/gSwzeNAd))</li>
+	<li>네이버 카페 <a href="https://cafe.naver.com/obsidianary">**[옵시디언 사용자 모임]**</a></li>
+	<li>오픈카톡방 <a href="https://open.kakao.com/o/gSwzeNAd">**[옵시디언 사용자 모임]**</a></li>
 </ul>
 
 
