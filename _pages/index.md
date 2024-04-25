@@ -14,15 +14,18 @@ permalink: /
 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  기본적인 사용 방법은 여기에서 <span style="font-weight: bold">[[옵시디언 사용법]]</span>을 확인하고 시작해보세요.
+  기본적인 사용 방법은 여기에서 <span style="font-weight: bold">[[옵시디언 소개]]</span>를 확인하고 시작해보세요.
 </p>
 
 여기 디지털 가든은 깃허브를 통해 관리되고 있습니다. [GitHub here](https://github.com/xodnjs6038/myDigitalGarden).
 
 **Obsidian Tips**
 <ul>
+	<li>[[Obsidian]]</li>
+	<li>[[옵시디언 설치]]</li>
 	<li>[[옵시디언 무료로 퍼블리시하는 방법]]</li>
 </ul>
+
 
 <strong>Recently updated notes</strong>
 
@@ -34,6 +37,14 @@ permalink: /
     </li>
   {% endfor %}
 </ul>
+
+
+Obsidian Community
+<ul>
+	<li>네이버 카페 ([옵시디언 사용자 모임](https://cafe.naver.com/obsidianary))</li>
+	<li>오픈카톡방 ([옵시디언 사용자 모임](https://open.kakao.com/o/gSwzeNAd))</li>
+</ul>
+
 
 <style>
   .wrapper {

@@ -1,3 +1,12 @@
+/* align */
+.lt {
+  left: 0;
+}
+.rt {
+  right: 0;
+}
+
+/* Modal class Custom START */
 .img {
   width: auto;
   border-radius: 10px;
@@ -58,3 +67,4 @@
   text-decoration: none;
   cursor: pointer;
 }
+/* Modal class Custom END */
