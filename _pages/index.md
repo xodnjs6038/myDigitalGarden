@@ -22,8 +22,15 @@ permalink: /
 **Obsidian Tips**
 <ul>
 	<li>[[Obsidian]]</li>
+	<li>[[옵시디언 소개]]</li>
 	<li>[[옵시디언 설치]]</li>
 	<li>[[옵시디언 무료로 퍼블리시하는 방법]]</li>
+</ul>
+
+**Obsidian Community**
+<ul>
+	<li>네이버 카페 <a href="https://cafe.naver.com/obsidianary">[옵시디언 사용자 모임]</a></li>
+	<li>오픈카톡방 <a href="https://open.kakao.com/o/gSwzeNAd">[옵시디언 사용자 모임]</a></li>
 </ul>
 
 
@@ -36,13 +43,6 @@ permalink: /
       {{ note.last_modified_at | date: "%Y-%m-%d %H:%M" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
-</ul>
-
-
-Obsidian Community
-<ul>
-	<li>네이버 카페 <a href="https://cafe.naver.com/obsidianary">**[옵시디언 사용자 모임]**</a></li>
-	<li>오픈카톡방 <a href="https://open.kakao.com/o/gSwzeNAd">**[옵시디언 사용자 모임]**</a></li>
 </ul>
 
 
