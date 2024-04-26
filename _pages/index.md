@@ -21,7 +21,7 @@ permalink: /
 
 **Obsidian Tips**
 <ul>
-	<li>[[Obsidian]]</li>
+	<li>[[옵시디언]]</li>
 	<li>[[옵시디언 소개]]</li>
 	<li>[[옵시디언 설치]]</li>
 	<li>[[옵시디언 무료로 퍼블리시하는 방법]]</li>
