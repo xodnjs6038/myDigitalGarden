@@ -1,3 +1,6 @@
+---
+---
+
 Kotlin 개발을 시작하기 위해 다음의 가이드를 따르세요:
 
 개발 환경 설정: **IntelliJ IDEA**를 포함한 JetBrains IDE를 사용하면 Kotlin 개발이 간편합니다. Kotlin plugin을 설치하면 새로운 Kotlin 프로젝트를 쉽게 시작할 수 있습니다.
