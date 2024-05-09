@@ -1,8 +1,8 @@
 ---
 ---
 
-<img src="/assets/img/expertHerb/Pasted image 20240422114019.png">
-#### Kotlin이 개발 환경에서 많이 선택되는 이유
+<img src="/assets/img/Language/kotlin_logo.png">
+#### [[Kotlin]]이 개발 환경에서 많이 선택되는 이유
 
 1. **간결한 문법**   
     Kotlin의 문법은 간결하고 직관적입니다. 이로 인해 코드는 더 짧고, 가독성이 좋으며, 유지 보수가 쉽습니다.
