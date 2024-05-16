@@ -1,3 +1,6 @@
+---
+---
+
 <img src="/assets/img/Language/kotlin_logo.png">
 IntelliJ IDEA의 개발사 JetBrains에서 2011년에 공개한 오픈 소스 프로그래밍 언어. JVM 기반의 언어이며, Java와 유사하지만 더 간결한 문법과 다양한 기능을 추가하였다.  
 Java와의 상호 운용이 100% 지원된다.
